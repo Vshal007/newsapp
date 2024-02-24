@@ -30,7 +30,7 @@ const NavLinks = () => {
             </h1>
             {link.submenu && (
               <div>
-                <div className="absolute top-20 hidden group-hover:md:block hover:md:block">
+                <div className="z-10 absolute top-20 hidden group-hover:md:block hover:md:block">
                   <div className="py-3">
                     <div
                       className="w-4 h-4 left-3 absolute 
@@ -83,8 +83,8 @@ const NavLinks = () => {
                     <span className="text-xl md:mt-1 md:ml-2 inline">
                       <ion-icon
                         name={`${subHeading === slinks.Head
-                            ? "chevron-up"
-                            : "chevron-down"
+                          ? "chevron-up"
+                          : "chevron-down"
                           }`}
                       ></ion-icon>
                     </span>
