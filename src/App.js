@@ -26,7 +26,7 @@ export default class App extends Component {
       <div>
 
         <Navbar />
-        <div className="w-[100%]">
+        <div className="w-[100%] z-0">
           <Carousel slides={slides} />
         </div>
         <Cards />
