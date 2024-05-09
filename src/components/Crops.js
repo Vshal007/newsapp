@@ -8,7 +8,7 @@ import cropData from './cropData.json';
 const Crops = () => {
   const [sliderSettings, setSliderSettings] = useState({
     dots: true,
-    infinite: false,
+    infinite: true,
     speed: 500,
     slidesToScroll: 1,
     slidesToShow: 5, // Default number of slides to show
