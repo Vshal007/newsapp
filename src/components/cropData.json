@@ -6,32 +6,32 @@
       "description": "A juicy red fruit often used in salads and cooking."
     },
     {
-      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2023/1/TB/CD/LD/124994410/yellow-maize-500x500.png",
+      "imageUrl": "https://staticg.sportskeeda.com/editor/2023/03/3e8c9-16783898800668-1920.jpg?w=640",
       "title": "Onion",
       "description": "A bulb vegetable with a pungent flavor used in various cuisines."
     },
     {
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-03/31/full/1680266101-7124.jpg",
+      "imageUrl": "https://www.netafimindia.com/contentassets/98512e81691249368e1ca89dcaa7abcd/potatoes_challenge-1-1.png?height=0&width=750&mode=crop&quality=100",
       "title": "Potato",
       "description": "A starchy tuberous crop widely consumed worldwide."
     },
     {
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/10000487-5_2-bb-royal-soya-bean.jpg",
+      "imageUrl": "https://doorkisan.com/wp-content/uploads/2016/05/green-chilli_759.jpg",
       "title": "Green Chilli",
       "description": "A spicy pepper used to add heat to dishes."
     },
     {
-      "imageUrl": "https://www.contrado.co.uk/blog/wp-content/uploads/2020/07/1-1.jpg",
+      "imageUrl": "https://www.greendna.in/cdn/shop/products/chili-499063_960_720_1200x1200.jpg",
       "title": "Red Chilli",
       "description": "Another variety of spicy pepper commonly used in cooking."
     },
     {
-      "imageUrl": "https://www.contrado.co.uk/blog/wp-content/uploads/2020/07/1-1.jpg",
+      "imageUrl": "https://images.news18.com/webstories/2023/09/Curry-leaves-plant.jpeg",
       "title": "Curry Leaves",
       "description": "Aromatic leaves used in Indian cooking to add flavor."
     },
     {
-      "imageUrl": "https://www.contrado.co.uk/blog/wp-content/uploads/2020/07/1-1.jpg",
+      "imageUrl": "https://freshji.in/wp-content/uploads/2020/09/Capsicum-1-600x600.jpg",
       "title": "Capsicum",
       "description": "Also known as bell pepper, available in various colors and used in salads and cooking."
     }
@@ -53,51 +53,46 @@
       "description": "A type of pulse crop commonly used in Indian cuisine."
     },
     {
-      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2023/1/TB/CD/LD/124994410/yellow-maize-500x500.png",
+      "imageUrl": "https://24farms.com/wp-content/uploads/2021/09/Jowar-Millet-Rice.jpg",
       "title": "Jowar",
       "description": "A gluten-free grain used as a staple food in many parts of India."
     },
     {
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/10000487-5_2-bb-royal-soya-bean.jpg",
+      "imageUrl": "https://i.ebayimg.com/images/g/dHAAAOSwaOhiPvXC/s-l1200.webp",
       "title": "Chana",
       "description": "Also known as chickpea, used in various dishes and as a snack."
     }
   ],
   "fruits": [
     {
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/10000487-5_2-bb-royal-soya-bean.jpg",
+      "imageUrl": "https://4.imimg.com/data4/AT/RM/MY-29356566/indian-mangoes.jpg",
       "title": "Mango",
       "description": "A tropical fruit known for its sweet and tangy flavor."
     },
     {
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/10000487-5_2-bb-royal-soya-bean.jpg",
+      "imageUrl": "https://english.cdn.zeenews.com/sites/default/files/2015/01/04/309673-chikoo.jpg",
       "title": "Chikoo (Sapota)",
       "description": "A sweet and grainy-textured fruit popular in tropical regions."
     },
     {
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/10000487-5_2-bb-royal-soya-bean.jpg",
+      "imageUrl": "https://www.edobo.in/s/60a39f1801d30d79c4caa94b/6554f377d4196b29eecbae6b/custard-apple.jpg",
       "title": "Custard Apple",
       "description": "A creamy and delicious fruit with a unique flavor."
     },
     {
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/10000487-5_2-bb-royal-soya-bean.jpg",
+      "imageUrl": "https://cdn.britannica.com/59/139059-050-30794D53/Guava-fruit.jpg",
       "title": "Guava",
       "description": "A tropical fruit rich in vitamin C and antioxidants."
     },
     {
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/10000487-5_2-bb-royal-soya-bean.jpg",
+      "imageUrl": "https://c.ndtvimg.com/2023-11/65ue33s8_lemon_625x300_08_November_23.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
       "title": "Lemon",
       "description": "A citrus fruit used for its juice and zest in cooking."
     },
     {
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/10000487-5_2-bb-royal-soya-bean.jpg",
+      "imageUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2017/06/oranges-85fb2b6.jpg?quality=90&resize=556,505",
       "title": "Orange",
       "description": "Another citrus fruit known for its vitamin C content and refreshing taste."
-    },
-    {
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/10000487-5_2-bb-royal-soya-bean.jpg",
-      "title": "Citrus (generic category)",
-      "description": "Various citrus fruits like grapefruit, lime, and tangerine."
     }
   ]
 }
