@@ -18,7 +18,7 @@ const Crops = () => {
     const handleResize = () => {
       const screenWidth = window.innerWidth;
       if (screenWidth <= 768) {
-        setSliderSettings({ ...sliderSettings, slidesToShow: 3 });
+        setSliderSettings({ ...sliderSettings, slidesToShow: 2 });
       } else if (screenWidth <= 1024) {
         setSliderSettings({ ...sliderSettings, slidesToShow: 4 });
       } else {
