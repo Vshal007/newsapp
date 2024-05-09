@@ -18,15 +18,20 @@ const NavLinks = () => {
               }}
             >
               {link.name}
-              <span className="text-xl md:hidden inline">
-                <ion-icon
-                  name={`${heading === link.name ? "chevron-up" : "chevron-down"
-                    }`}
-                ></ion-icon>
-              </span>
-              <span className="text-xl md:mt-1 md:ml-2  md:block hidden group-hover:rotate-180 group-hover:-mt-2">
-                <ion-icon name="chevron-down"></ion-icon>
-              </span>
+              {link.submenu &&
+                <div>
+                  <span className="text-xl md:hidden inline">
+                    <ion-icon
+                      name={`${heading === link.name ? "chevron-up" : "chevron-down"
+                        }`}
+                    ></ion-icon>
+                  </span>
+                  <span className="text-xl md:mt-1 md:ml-2  md:block hidden group-hover:rotate-180 group-hover:-mt-2">
+                    <ion-icon name="chevron-down"></ion-icon>
+                  </span>
+                </div>
+              }
+
             </h1>
             {link.submenu && (
               <div>
@@ -67,7 +72,7 @@ const NavLinks = () => {
           `}
           >
             {/* sublinks */}
-            {link.sublinks.map((slinks) => (
+            {link.submenu && link.sublinks.map((slinks) => (
               <div>
                 <div>
                   <h1

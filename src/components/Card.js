@@ -2,7 +2,7 @@ import React from 'react'
 
 const Card = () => {
     return (
-        <div className="duration-500 md:max-w-xs max-w-lg rounded-lg hover:shadow-lg">
+        <div className="duration-500 md:max-w-xs max-w-lg rounded-lg hover:shadow-lg bg-white">
             <a href="#">
                 <img className="rounded-t-lg" src="https://vietnam.travel/sites/default/files/styles/top_banner/public/2019-09/nature.jpg" alt="" />
             </a>
