@@ -35,7 +35,7 @@ const Crops = () => {
   }, []); // Empty dependency array ensures this effect runs only once on mount
 
   return (
-    <div className="p-5 flex flex-col justify-center items-center bg-teal-200">
+    <div className="p-5 flex flex-col justify-center items-center bg-green-300">
       <h1 className="font-semibold text-2xl lg:text-4xl pb-10">Major Crops</h1>
 
       <h1 className="font-semibold text-xl lg:text-2xl pt-5">Cash Crops</h1>
