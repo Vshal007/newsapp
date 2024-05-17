@@ -12,6 +12,8 @@ const Crops = () => {
     speed: 500,
     slidesToScroll: 1,
     slidesToShow: 5, // Default number of slides to show
+    autoplay: true,
+    autoplaySpeed: 3000,
   });
 
   useEffect(() => {

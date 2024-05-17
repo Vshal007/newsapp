@@ -10,6 +10,7 @@ import DropdownHover from './components/DropdownHover';
 import DropdownBar from './components/DropdownBar';
 import Navbar from './components/Navbar/Navbar';
 import Crops from './components/Crops';
+import Services from './components/Services';
 
 
 let slides = [
@@ -32,7 +33,9 @@ export default class App extends Component {
         <div className="w-[100%] z-0">
           <Carousel slides={slides} />
         </div>
+        <Services />
         <Crops />
+
         {/* <Cards /> */}
         <Footer />
         {/* <DropdownHover/>

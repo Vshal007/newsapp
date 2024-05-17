@@ -1,0 +1,28 @@
+{
+  "services": [
+    {
+      "imageSrc": "https://awsmfarming.co.uk/wp-content/uploads/2022/11/blog-1.webp",
+      "title": "Technical Guidance",
+      "details": "Technical guidance on increasing the yield of various crops like Cotton, Soybean, Chana, as well as vegetables like Tomato, Brinjal, Red-Green Chillies, Spinach, Curry Leaves, Onion, Coriander, and fruits like Mango, Watermelon, Muskmelon, Orange, Citrus, Chikoo, Custard Apple.",
+      "link": "https://example.com/services/increasing_yield"
+    },
+    {
+      "imageSrc": "https://awsmfarming.co.uk/wp-content/uploads/2022/11/blog-12.webp",
+      "title": "Krishi Seva Kendra",
+      "details": "Krishi seva kendra at Taluka umri district nanded Maharashtra. For providing needed Fertlizers/seeds/Insecticides/Micronutrients and farm equipments.",
+      "link": "https://example.com/services/increasing_yield"
+    },
+    {
+      "imageSrc": "https://awsmfarming.co.uk/wp-content/uploads/2022/11/blog-10.webp",
+      "title": "Goverment Procurement Center",
+      "details": "Government Procurement Center by NAFED at taluka Umri District Nanded Maharashtra for MSP procurement by the central government.",
+      "link": "https://example.com/services/increasing_yield"
+    },
+    {
+      "imageSrc": "https://awsmfarming.co.uk/wp-content/uploads/2022/11/blog-13.webp",
+      "title": "On Field Assistance",
+      "details": "On field assistance by technical agriculturist of our FPC for farmers problems with solution.",
+      "link": "https://example.com/services/increasing_yield"
+    }
+  ]
+}
