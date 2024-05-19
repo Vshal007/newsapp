@@ -23,6 +23,12 @@
       "title": "On Field Assistance",
       "details": "On field assistance by technical agriculturist of our FPC for farmers problems with solution.",
       "link": "https://example.com/services/increasing_yield"
+    },
+    {
+      "imageSrc": "https://awsmfarming.co.uk/wp-content/uploads/2022/11/blog-3.webp",
+      "title": "Private Procurement",
+      "details": "Private procurement of all type of Grains and farmers produce at center Umri.",
+      "link": "https://example.com/services/increasing_yield"
     }
   ]
 }
