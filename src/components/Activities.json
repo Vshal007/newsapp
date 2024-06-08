@@ -1,40 +1,46 @@
 {
-  "services": [
+  "activities": [
     {
       "imageSrc": "https://awsmfarming.co.uk/wp-content/uploads/2022/11/blog-1.webp",
       "title": "Technical Guidance",
       "details": "Technical guidance on increasing the yield of various crops like Cotton, Soybean, Chana, as well as vegetables like Tomato, Brinjal, Red-Green Chillies, Spinach, Curry Leaves, Onion, Coriander, and fruits like Mango, Watermelon, Muskmelon, Orange, Citrus, Chikoo, Custard Apple.",
-      "link": "https://example.com/services/increasing_yield"
+      "link": "https://example.com/services/increasing_yield",
+      "date": "2024-05-25"
     },
     {
       "imageSrc": "https://awsmfarming.co.uk/wp-content/uploads/2022/11/blog-12.webp",
       "title": "Krishi Seva Kendra",
-      "details": "Krishi seva kendra at Taluka umri district nanded Maharashtra. For providing needed Fertlizers/seeds/Insecticides/Micronutrients and farm equipments.",
-      "link": "https://example.com/services/increasing_yield"
+      "details": "Krishi seva kendra at Taluka Umri district Nanded Maharashtra. For providing needed Fertilizers/seeds/Insecticides/Micronutrients and farm equipments.",
+      "link": "https://example.com/services/increasing_yield",
+      "date": "2024-05-26"
     },
     {
       "imageSrc": "https://awsmfarming.co.uk/wp-content/uploads/2022/11/blog-10.webp",
-      "title": "Goverment Procurement Center",
-      "details": "Government Procurement Center by NAFED at taluka Umri District Nanded Maharashtra for MSP procurement by the central government.",
-      "link": "https://example.com/services/increasing_yield"
+      "title": "Government Procurement Center",
+      "details": "Government Procurement Center by NAFED at Taluka Umri district Nanded Maharashtra for MSP procurement by the central government.",
+      "link": "https://example.com/services/increasing_yield",
+      "date": "2024-05-27"
     },
     {
       "imageSrc": "https://awsmfarming.co.uk/wp-content/uploads/2022/11/blog-13.webp",
       "title": "On Field Assistance",
       "details": "On field assistance by technical agriculturist of our FPC for farmers problems with solution.",
-      "link": "https://example.com/services/increasing_yield"
+      "link": "https://example.com/services/increasing_yield",
+      "date": "2024-05-28"
     },
     {
       "imageSrc": "https://awsmfarming.co.uk/wp-content/uploads/2022/11/blog-3.webp",
       "title": "Private Procurement",
       "details": "Private procurement of all type of Grains and farmers produce at center Umri.",
-      "link": "https://example.com/services/increasing_yield"
+      "link": "https://example.com/services/increasing_yield",
+      "date": "2024-05-29"
     },
     {
       "imageSrc": "https://awsmfarming.co.uk/wp-content/uploads/2022/11/blog-5.webp",
       "title": "Market Linkages",
       "details": "Market Linkages means identifying markets for the produce grown by purchasing member farmers. In this, we find reliable customers who purchase the farmers' produce at good prices, directly benefiting the farmers. We identify transport, prices, and places for the produce grown.Examples: cotton, soybean, fruits like mango, chikoo, custard apple, and vegetables like tomato, onion, capsicum, green-red chillies, and potato.",
-      "link": "https://example.com/services/increasing_yield"
+      "link": "https://example.com/services/increasing_yield",
+      "date": "2024-05-30"
     }
   ]
 }

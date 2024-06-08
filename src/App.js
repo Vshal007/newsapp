@@ -11,6 +11,7 @@ import DropdownBar from './components/DropdownBar';
 import Navbar from './components/Navbar/Navbar';
 import Crops from './components/Crops';
 import Services from './components/Services';
+import Activities from './components/Activities';
 
 
 let slides = [
@@ -35,6 +36,7 @@ export default class App extends Component {
         </div>
         <Services />
         <Crops />
+        <Activities/> 
 
         {/* <Cards /> */}
         <Footer />
