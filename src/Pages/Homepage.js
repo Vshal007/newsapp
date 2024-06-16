@@ -5,6 +5,8 @@ import Navbar from '../components/Navbar/Navbar';
 import Crops from '../components/Crops';
 import Services from '../components/Services';
 import Activities from '../components/Activities';
+import Events from '../components/Events';
+
 
 let slides = [
     "https://images.unsplash.com/photo-1484151709479-3996843263cf?h=500&w=1600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
@@ -18,14 +20,13 @@ let slides = [
 const Homepage = () => {
     return (
         <div>
-            <Navbar />
             <div className="w-[100%] z-0">
                 <Carousel slides={slides} />
             </div>
             <Services />
             <Crops />
-            <Activities />
-            <Footer />
+            {/* <Activities /> */}
+            <Events/>
         </div>
     )
 }
