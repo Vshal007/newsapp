@@ -44,7 +44,7 @@ const Activities = () => {
 
     return (
         <div className="flex flex-col items-center bg-green-300">
-            <h1 className="font-semibold text-xl lg:text-2xl pt-5">Activities</h1>
+            <h1 className="font-semibold text-xl lg:text-2xl pt-5">ACTIVITIES</h1>
             <div className="container mx-auto mt-8">
                 <Slider {...sliderSettings}>
                     {ActivityData.activities.map((crop, index) => (

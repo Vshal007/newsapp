@@ -38,9 +38,9 @@ const Crops = () => {
 
   return (
     <div className="p-5 flex flex-col justify-center items-center bg-green-300">
-      <h1 className="font-semibold text-2xl lg:text-4xl pb-10">Major Crops</h1>
+      <h1 className="font-semibold text-2xl lg:text-4xl pb-10">MAJOR CROPS</h1>
 
-      <h1 className="font-semibold text-xl lg:text-2xl pt-5">Cash Crops</h1>
+      <h1 className="font-semibold text-xl lg:text-2xl pt-5">CASH CROPS</h1>
       <div className="container mx-auto mt-8">
         <Slider {...sliderSettings}>
           {cropData.cashCrops.map((crop, index) => (
@@ -55,7 +55,7 @@ const Crops = () => {
         </Slider>
       </div>
 
-      <h1 className="font-semibold text-xl lg:text-2xl pt-20">Vegetables</h1>
+      <h1 className="font-semibold text-xl lg:text-2xl pt-20">VEGETABLES</h1>
       <div className="container mx-auto mt-8">
         <Slider {...sliderSettings}>
           {cropData.vegetables.map((crop, index) => (
@@ -70,7 +70,7 @@ const Crops = () => {
         </Slider>
       </div>
 
-      <h1 className="font-semibold text-xl lg:text-2xl pt-20">Fruits</h1>
+      <h1 className="font-semibold text-xl lg:text-2xl pt-20">FRUITS</h1>
       <div className="container mx-auto mt-8">
         <Slider {...sliderSettings}>
           {cropData.fruits.map((crop, index) => (

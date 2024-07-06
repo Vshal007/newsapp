@@ -15,7 +15,7 @@ const Events = () => {
 
     return (
         <div className='flex flex-col bg-green-300 items-center'>
-            <h1 className='pt-10 text-3xl'>Events</h1>
+            <h1 className='pt-10 text-3xl font-semibold'>EVENTS</h1>
             <div className="flex flex-col lg:flex-row m-5">
                 {selectedEvent && <EventDetail event={selectedEvent} />}
                 <EventList events={events} onSelect={setSelectedEvent} />
