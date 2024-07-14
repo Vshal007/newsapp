@@ -1,26 +1,60 @@
-[
-  {
-    "id": 1,
-    "title": "Farmers Welfare Training Program",
-    "date": "15.06.2024",
-    "image": "https://i.ibb.co/F3tGrFm/Whats-App-Image-2024-06-13-at-1-53-09-PM-3.jpg",
-    "detail": "Bothi Agro FPC and VAMNICOM Pune, in collaboration with the Warehousing Development and Regulatory Authority (WDRA), conducted a Farmers Welfare Training Program at Village Bothi and Taluka Dharmabad. Over 150 farmers participated, learning about warehousing facilities from central and state governments. Officials from VAMNICOM Pune and the Government Warehouse provided guidance on benefits like improved storage, quality maintenance, and access to credit. They also explained registration procedures and available subsidies. The program aimed to prevent post-harvest losses and improve market access, empowering farmers with advanced warehousing solutions and support."  },
-  {
-    "id": 2,
-    "title": "Cotton Mission Program",
-    "date": "15.07.2020",
-    "image": "https://i.ibb.co/S3c6J74/Whats-App-Image-2024-06-13-at-1-43-30-PM-1.jpg",
-    "detail": "The Cotton Mission program organized by Bothi Agro FPC at Village Somthana aims to support the cotton farmers of Umri Taluka by enhancing their agricultural practices. During this event, Bothi Agro FPC provided comprehensive training on effective field practices, the appropriate use of fertilizers and pesticides, and the benefits of using high-quality germinative seeds. The goal of the program is to increase the per-acre yield of cotton, particularly benefiting the marginal farmers of Taluka Umri. By implementing these improved agricultural techniques, Bothi Agro FPC hopes to empower farmers with the knowledge and resources needed to achieve better productivity and profitability in their cotton farming operations."  },
-  {
-    "id": 3,
-    "title": "Distribution of Free Farming equipments",
-    "date": "15.07.2020",
-    "image": "https://i.ibb.co/SPZfCKK/Whats-App-Image-2024-06-13-at-1-53-51-PM-3.jpg",
-    "detail": "The Vasantrao Naik Marathwada Krushi Vidyapeeth Parbhani (VNMKV, Parbhani) held an event at Village Bothi, Taluka Umri, District Nanded, where they distributed free farming equipment worth Rs 30 lakhs to marginal farmers. This initiative aimed to support farmers by providing essential tools and machinery to enhance their farming practices. More than 120 farmers benefited from this distribution, receiving various types of farming equipment to improve their efficiency and productivity. This event underscored VNMKV's commitment to uplifting the agricultural community by ensuring marginal farmers have access to the resources needed for better agricultural output."  },
-  {
-    "id": 4,
-    "title": "Government Procurement Center",
-    "date": "",
-    "image": "https://i.ibb.co/0K02FXW/event1.jpg",
-    "detail": "Bothi Agro FPC Umri and Vidarbha Co-operative Marketing Federation Limited Nagpur collectively opened a NAFED Government Procurement Center for Bengal gram at Taluka Umri. In 2022, around 800 farmers benefited from the government's MSP, with 10,000 quintals of Bengal gram procured. In 2023, nearly 2,000 farmers from Umri, Bhokar, and Mudkhed Talukas benefited, with 19,000 quintals procured. The center, managed by Bothi Agro FPC, has significantly supported local farmers by ensuring fair prices for their produce."  }
-]
+[ {
+  "id": 1,
+  "title": {
+    "en": "Farmers Welfare Training Program",
+    "hi": "किसान कल्याण प्रशिक्षण कार्यक्रम",
+    "mr": "शेतकरी कल्याण प्रशिक्षण कार्यक्रम"
+  },
+  "date": "15.06.2024",
+  "image": "https://i.ibb.co/F3tGrFm/Whats-App-Image-2024-06-13-at-1-53-09-PM-3.jpg",
+  "detail": {
+    "en": "Bothi Agro FPC and VAMNICOM Pune, in collaboration with the Warehousing Development and Regulatory Authority (WDRA), conducted a Farmers Welfare Training Program at Village Bothi and Taluka Dharmabad. Over 150 farmers participated, learning about warehousing facilities from central and state governments. Officials from VAMNICOM Pune and the Government Warehouse provided guidance on benefits like improved storage, quality maintenance, and access to credit. They also explained registration procedures and available subsidies. The program aimed to prevent post-harvest losses and improve market access, empowering farmers with advanced warehousing solutions and support.",
+    "hi": "बोथी एग्रो एफपीसी और वामनिकॉम पुणे ने वेयरहाउसिंग विकास और नियामक प्राधिकरण (डब्ल्यूडीआरए) के सहयोग से गांव बोथी और तालुका धर्माबाद में किसान कल्याण प्रशिक्षण कार्यक्रम आयोजित किया। 150 से अधिक किसानों ने भाग लिया, और केंद्रीय और राज्य सरकारों से वेयरहाउसिंग सुविधाओं के बारे में सीखा। वामनिकॉम पुणे और सरकारी वेयरहाउस के अधिकारियों ने बेहतर भंडारण, गुणवत्ता बनाए रखने और ऋण की पहुंच जैसे लाभों पर मार्गदर्शन प्रदान किया। उन्होंने पंजीकरण प्रक्रियाओं और उपलब्ध सब्सिडी के बारे में भी बताया। कार्यक्रम का उद्देश्य फसल कटाई के बाद के नुकसानों को रोकना और बाजार तक पहुंच को बेहतर बनाना था, जिससे किसानों को उन्नत वेयरहाउसिंग समाधान और समर्थन के साथ सशक्त बनाना था।",
+    "mr": "बोथी ऍग्रो एफपीसी आणि व्हीएमएनआयकॉम पुणे यांनी वेअरहाउसिंग डेव्हलपमेंट अँड रेग्युलेटरी अथॉरिटी (डब्ल्यूडीआरए) यांच्या सहकार्याने बोथी गाव आणि तालुका धर्माबाद येथे शेतकरी कल्याण प्रशिक्षण कार्यक्रम आयोजित केला. १५० हून अधिक शेतकऱ्यांनी सहभाग घेतला, आणि केंद्रीय आणि राज्य सरकारांकडून वेअरहाउसिंग सुविधांबद्दल शिकले. व्हीएमएनआयकॉम पुणे आणि शासकीय गोदामांच्या अधिकाऱ्यांनी सुधारित साठवण, गुणवत्ता राखणे आणि कर्जाची उपलब्धता यासारख्या फायद्यांबद्दल मार्गदर्शन केले. त्यांनी नोंदणी प्रक्रिया आणि उपलब्ध अनुदानांबद्दलही माहिती दिली. कार्यक्रमाचे उद्दिष्ट पीक कटाईनंतर होणारे नुकसान टाळणे आणि बाजारपेठेतील प्रवेश सुधारणे होते, ज्यामुळे शेतकऱ्यांना प्रगत वेअरहाउसिंग समाधान आणि समर्थनासह सशक्त करणे."
+  }
+},
+{
+  "id": 2,
+  "title": {
+    "en": "Cotton Mission Program",
+    "hi": "कपास मिशन कार्यक्रम",
+    "mr": "कापूस मिशन कार्यक्रम"
+  },
+  "date": "15.07.2020",
+  "image": "https://i.ibb.co/S3c6J74/Whats-App-Image-2024-06-13-at-1-43-30-PM-1.jpg",
+  "detail": {
+    "en": "The Cotton Mission program organized by Bothi Agro FPC at Village Somthana aims to support the cotton farmers of Umri Taluka by enhancing their agricultural practices. During this event, Bothi Agro FPC provided comprehensive training on effective field practices, the appropriate use of fertilizers and pesticides, and the benefits of using high-quality germinative seeds. The goal of the program is to increase the per-acre yield of cotton, particularly benefiting the marginal farmers of Taluka Umri. By implementing these improved agricultural techniques, Bothi Agro FPC hopes to empower farmers with the knowledge and resources needed to achieve better productivity and profitability in their cotton farming operations.",
+    "hi": "गांव सोमथाना में बोथी एग्रो एफपीसी द्वारा आयोजित कपास मिशन कार्यक्रम उमरी तालुका के कपास किसानों का समर्थन करने के लिए उनके कृषि अभ्यासों को बढ़ाने का लक्ष्य रखता है। इस कार्यक्रम के दौरान, बोथी एग्रो एफपीसी ने प्रभावी क्षेत्रीय प्रथाओं, उर्वरकों और कीटनाशकों के उपयुक्त उपयोग, और उच्च गुणवत्ता वाले अंकुरित बीजों के उपयोग के लाभों पर व्यापक प्रशिक्षण प्रदान किया। कार्यक्रम का लक्ष्य प्रति एकड़ कपास की उपज बढ़ाना है, विशेष रूप से उमरी तालुका के सीमांत किसानों को लाभ पहुंचाना। इन सुधारे हुए कृषि तकनीकों को लागू करके, बोथी एग्रो एफपीसी किसानों को उनके कपास की खेती में बेहतर उत्पादकता और लाभप्रदता हासिल करने के लिए आवश्यक ज्ञान और संसाधनों के साथ सशक्त बनाने की उम्मीद करता है।",
+    "mr": "बोथी ऍग्रो एफपीसीने सोमथाना गावात आयोजित केलेला कापूस मिशन कार्यक्रम उमरी तालुक्यातील कापूस शेतकऱ्यांना त्यांच्या कृषी पद्धतींचे सुधार करून समर्थन देण्याचे उद्दिष्ट ठेवतो. या कार्यक्रमात, बोथी ऍग्रो एफपीसीने प्रभावी क्षेत्रीय पद्धतींवर, खतांच्या आणि कीटकनाशकांच्या योग्य वापरावर, आणि उच्च-गुणवत्तेच्या अंकुरित बियाणांच्या वापराच्या फायद्यांवर सर्वसमावेशक प्रशिक्षण दिले. कार्यक्रमाचे उद्दिष्ट प्रति एकर कापसाची उत्पादन वाढवणे आहे, विशेषतः उमरी तालुक्यातील मर्यादित शेतकऱ्यांना फायदा मिळवणे. या सुधारित कृषी तंत्रांचा वापर करून, बोथी ऍग्रो एफपीसी शेतकऱ्यांना त्यांच्या कापूस शेतीमध्ये चांगली उत्पादकता आणि लाभप्राप्ती मिळवण्यासाठी आवश्यक ज्ञान आणि संसाधनांसह सशक्त बनवण्याची अपेक्षा करते."
+  }
+},
+{
+  "id": 3,
+  "title": {
+    "en": "Distribution of Free Farming Equipments",
+    "hi": "मुफ्त खेती उपकरणों का वितरण",
+    "mr": "मोफत शेती उपकरणांचे वितरण"
+  },
+  "date": "15.07.2020",
+  "image": "https://i.ibb.co/SPZfCKK/Whats-App-Image-2024-06-13-at-1-53-51-PM-3.jpg",
+  "detail": {
+    "en": "The Vasantrao Naik Marathwada Krushi Vidyapeeth Parbhani (VNMKV, Parbhani) held an event at Village Bothi, Taluka Umri, District Nanded, where they distributed free farming equipment worth Rs 30 lakhs to marginal farmers. This initiative aimed to support farmers by providing essential tools and machinery to enhance their farming practices. More than 120 farmers benefited from this distribution, receiving various types of farming equipment to improve their efficiency and productivity. This event underscored VNMKV's commitment to uplifting the agricultural community by ensuring marginal farmers have access to the resources needed for better agricultural output.",
+    "hi": "वसंतराव नाइक मराठवाड़ा कृषि विद्यापीठ परभणी (वीएनएमकेवी, परभणी) ने नांदेड़ जिले के उमरी तालुका के गांव बोथी में एक कार्यक्रम आयोजित किया, जिसमें सीमांत किसानों को 30 लाख रुपये के मुफ्त खेती उपकरण वितरित किए गए। इस पहल का उद्देश्य किसानों का समर्थन करना था, जिससे उन्हें अपनी कृषि प्रथाओं को बढ़ाने के लिए आवश्यक उपकरण और मशीनरी प्रदान की जा सके। इस वितरण से 120 से अधिक किसानों को लाभ मिला, जिन्हें उनकी दक्षता और उत्पादकता में सुधार के लिए विभिन्न प्रकार के खेती उपकरण मिले। इस कार्यक्रम ने वीएनएमकेवी की कृषि समुदाय को सशक्त बनाने की प्रतिबद्धता को रेखांकित किया, जिससे सीमांत किसानों को बेहतर कृषि उत्पादन के लिए आवश्यक संसाधनों की पहुंच सुनिश्चित हो सके।",
+    "mr": "वसंतराव नाईक मराठवाडा कृषी विद्यापीठ परभणी (व्हीएनएमकेवी, परभणी) यांनी नांदेड जिल्ह्यातील उमरी तालुक्यातील बोथी गावात एक कार्यक्रम आयोजित केला, जिथे मर्यादित शेतकऱ्यांना ३० लाख रुपयांच्या मोफत शेती उपकरणांचे वितरण करण्यात आले. या उपक्रमाचे उद्दिष्ट शेतकऱ्यांना त्यांच्या कृषी पद्धतींना सुधारण्यासाठी आवश्यक साधने आणि यंत्रसामग्री प्रदान करून समर्थन करणे होते. या वितरणामुळे १२० हून अधिक शेतकऱ्यांना लाभ मिळाला, ज्यांना त्यांच्या कार्यक्षमता आणि उत्पादकता सुधारण्यासाठी विविध प्रकारची शेती उपकरणे मिळाली. या कार्यक्रमाने व्हीएनएमकेवीच्या कृषी समुदायाला सशक्त करण्याच्या वचनबद्धतेला अधोरेखित केले, ज्यामुळे मर्यादित शेतकऱ्यांना चांगल्या कृषी उत्पादनासाठी आवश्यक संसाधने मिळण्याची खात्री झाली."
+  }
+},
+{
+  "id": 4,
+  "title": {
+    "en": "Government Procurement Center",
+    "hi": "सरकारी खरीद केंद्र",
+    "mr": "शासकीय खरेदी केंद्र"
+  },
+  "date": "",
+  "image": "https://i.ibb.co/0K02FXW/event1.jpg",
+  "detail": {
+    "en": "Bothi Agro FPC Umri and Vidarbha Co-operative Marketing Federation Limited Nagpur collectively opened a NAFED Government Procurement Center for Bengal gram at Taluka Umri. In 2022, around 800 farmers benefited from the government's MSP, with 10,000 quintals of Bengal gram procured. In 2023, nearly 2,000 farmers from Umri, Bhokar, and Mudkhed Talukas benefited, with 19,000 quintals procured. The center, managed by Bothi Agro FPC, has significantly supported local farmers by ensuring fair prices for their produce.",
+    "hi": "बोथी एग्रो एफपीसी उमरी और विदर्भ कोऑपरेटिव मार्केटिंग फेडरेशन लिमिटेड नागपुर ने मिलकर उमरी तालुका में चना के लिए एक नाफेड सरकारी खरीद केंद्र खोला। 2022 में, सरकार के एमएसपी से लगभग 800 किसानों को लाभ हुआ, जिसमें 10,000 क्विंटल चना खरीदा गया। 2023 में, उमरी, भोकड़ और मुदखेड तालुका के लगभग 2,000 किसानों को लाभ हुआ, जिसमें 19,000 क्विंटल खरीदा गया। यह केंद्र, बोथी एग्रो एफपीसी द्वारा प्रबंधित किया जाता है, ने स्थानीय किसानों को उनके उत्पाद के लिए उचित मूल्य सुनिश्चित करके महत्वपूर्ण समर्थन प्रदान किया है।",
+    "mr": "बोथी ऍग्रो एफपीसी उमरी आणि विदर्भ कोऑपरेटिव्ह मार्केटिंग फेडरेशन लिमिटेड नागपूर यांनी एकत्रितपणे उमरी तालुक्यात चण्यासाठी नाफेड शासकीय खरेदी केंद्र उघडले. 2022 मध्ये, सरकारच्या एमएसपीमुळे सुमारे 800 शेतकऱ्यांना फायदा झाला, ज्यात 10,000 क्विंटल चणा खरेदी केला गेला. 2023 मध्ये, उमरी, भोकड आणि मुदखेड तालुक्यातील जवळपास 2,000 शेतकऱ्यांना फायदा झाला, ज्यात 19,000 क्विंटल खरेदी केला गेला. हे केंद्र, बोथी ऍग्रो एफपीसीद्वारे व्यवस्थापित केले जाते, ज्यामुळे स्थानिक शेतकऱ्यांना त्यांच्या उत्पादनासाठी योग्य दर मिळवून दिला आहे."
+  }
+}]

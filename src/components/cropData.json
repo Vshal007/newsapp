@@ -2,97 +2,241 @@
   "vegetables": [
     {
       "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2020/09/AN313-Tomatoes-732x549-Thumb-732x549.jpg",
-      "title": "Tomato",
-      "description": "A juicy red fruit often used in salads and cooking."
+      "title": {
+        "en": "Tomato",
+        "hi": "टमाटर",
+        "mr": "टोमॅटो"
+      },
+      "description": {
+        "en": "A juicy red fruit often used in salads and cooking.",
+        "hi": "एक रसीला लाल फल जो अक्सर सलाद और खाना पकाने में इस्तेमाल होता है।",
+        "mr": "एक रसाळ लाल फळ जे सहसा सॅलड आणि स्वयंपाकात वापरले जाते."
+      }
     },
     {
       "imageUrl": "https://staticg.sportskeeda.com/editor/2023/03/3e8c9-16783898800668-1920.jpg?w=640",
-      "title": "Onion",
-      "description": "A bulb vegetable with a pungent flavor used in various cuisines."
+      "title": {
+        "en": "Onion",
+        "hi": "प्याज",
+        "mr": "कांदा"
+      },
+      "description": {
+        "en": "A bulb vegetable with a pungent flavor used in various cuisines.",
+        "hi": "एक बल्ब सब्जी जो विभिन्न व्यंजनों में इस्तेमाल होती है।",
+        "mr": "एक बल्ब भाजी जी विविध स्वयंपाकात वापरली जाते."
+      }
     },
     {
       "imageUrl": "https://www.netafimindia.com/contentassets/98512e81691249368e1ca89dcaa7abcd/potatoes_challenge-1-1.png?height=0&width=750&mode=crop&quality=100",
-      "title": "Potato",
-      "description": "A starchy tuberous crop widely consumed worldwide."
+      "title": {
+        "en": "Potato",
+        "hi": "आलू",
+        "mr": "बटाटा"
+      },
+      "description": {
+        "en": "A starchy tuberous crop widely consumed worldwide.",
+        "hi": "एक स्टार्चयुक्त कंदीय फसल जो विश्वभर में व्यापक रूप से उपभोग की जाती है।",
+        "mr": "एक स्टार्चयुक्त कंदीय पिक जे जगभरात मोठ्या प्रमाणावर वापरले जाते."
+      }
     },
     {
       "imageUrl": "https://doorkisan.com/wp-content/uploads/2016/05/green-chilli_759.jpg",
-      "title": "Green Chilli",
-      "description": "A spicy pepper used to add heat to dishes."
+      "title": {
+        "en": "Green Chilli",
+        "hi": "हरी मिर्च",
+        "mr": "हिरवी मिरची"
+      },
+      "description": {
+        "en": "A spicy pepper used to add heat to dishes.",
+        "hi": "एक मसालेदार मिर्च जो व्यंजनों में तीखापन लाने के लिए उपयोग होती है।",
+        "mr": "एक मसालेदार मिरची जी पदार्थात तिखटपणा आणण्यासाठी वापरली जाते."
+      }
     },
     {
       "imageUrl": "https://www.greendna.in/cdn/shop/products/chili-499063_960_720_1200x1200.jpg",
-      "title": "Red Chilli",
-      "description": "Another variety of spicy pepper commonly used in cooking."
+      "title": {
+        "en": "Red Chilli",
+        "hi": "लाल मिर्च",
+        "mr": "लाल मिरची"
+      },
+      "description": {
+        "en": "Another variety of spicy pepper commonly used in cooking.",
+        "hi": "एक और प्रकार की मसालेदार मिर्च जो आमतौर पर खाना पकाने में उपयोग होती है।",
+        "mr": "एक आणखी प्रकारची मसालेदार मिरची जी स्वयंपाकात सामान्यतः वापरली जाते."
+      }
     },
     {
       "imageUrl": "https://images.news18.com/webstories/2023/09/Curry-leaves-plant.jpeg",
-      "title": "Curry Leaves",
-      "description": "Aromatic leaves used in Indian cooking to add flavor."
+      "title": {
+        "en": "Curry Leaves",
+        "hi": "करी पत्ते",
+        "mr": "कढीपत्ता"
+      },
+      "description": {
+        "en": "Aromatic leaves used in Indian cooking to add flavor.",
+        "hi": "सुगंधित पत्ते जो भारतीय खाना पकाने में स्वाद जोड़ने के लिए उपयोग होते हैं।",
+        "mr": "सुगंधित पाने जी भारतीय स्वयंपाकात चव आणण्यासाठी वापरली जातात."
+      }
     },
     {
       "imageUrl": "https://freshji.in/wp-content/uploads/2020/09/Capsicum-1-600x600.jpg",
-      "title": "Capsicum",
-      "description": "Also known as bell pepper, available in various colors and used in salads and cooking."
+      "title": {
+        "en": "Capsicum",
+        "hi": "शिमला मिर्च",
+        "mr": "ढोबळी मिरची"
+      },
+      "description": {
+        "en": "Also known as bell pepper, available in various colors and used in salads and cooking.",
+        "hi": "जिसे बेल पेपर भी कहा जाता है, विभिन्न रंगों में उपलब्ध और सलाद और खाना पकाने में उपयोग होती है।",
+        "mr": "ज्याला बेल पेपर म्हणतात, विविध रंगांमध्ये उपलब्ध आणि सॅलड आणि स्वयंपाकात वापरली जाते."
+      }
     }
   ],
   "cashCrops": [
     {
       "imageUrl": "https://www.contrado.co.uk/blog/wp-content/uploads/2020/07/1-1.jpg",
-      "title": "Cotton",
-      "description": "A soft, fluffy fiber used to make textiles."
+      "title": {
+        "en": "Cotton",
+        "hi": "कपास",
+        "mr": "कापूस"
+      },
+      "description": {
+        "en": "A soft, fluffy fiber used to make textiles.",
+        "hi": "एक नरम, फुलझड़ी जैसा रेशा जो वस्त्र बनाने के लिए उपयोग होता है।",
+        "mr": "एक मऊ, फुलासारखा तंतू जो वस्त्र बनवण्यासाठी वापरला जातो."
+      }
     },
     {
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/10000487-5_2-bb-royal-soya-bean.jpg",
-      "title": "Soyabean",
-      "description": "A legume crop rich in protein and used in various food products."
+      "title": {
+        "en": "Soyabean",
+        "hi": "सोयाबीन",
+        "mr": "सोयाबीन"
+      },
+      "description": {
+        "en": "A legume crop rich in protein and used in various food products.",
+        "hi": "एक प्रोटीन समृद्ध दलहन फसल जो विभिन्न खाद्य उत्पादों में उपयोग होती है।",
+        "mr": "एक प्रथिनसमृद्ध कडधान्य पीक जे विविध खाद्य उत्पादनांमध्ये वापरले जाते."
+      }
     },
     {
       "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-03/31/full/1680266101-7124.jpg",
-      "title": "Tur",
-      "description": "A type of pulse crop commonly used in Indian cuisine."
+      "title": {
+        "en": "Tur",
+        "hi": "अरहर",
+        "mr": "तूर"
+      },
+      "description": {
+        "en": "A type of pulse crop commonly used in Indian cuisine.",
+        "hi": "एक प्रकार की दाल जो भारतीय व्यंजनों में सामान्यतः उपयोग होती है।",
+        "mr": "एक प्रकारची डाळ जी भारतीय स्वयंपाकात सामान्यतः वापरली जाते."
+      }
     },
     {
       "imageUrl": "https://24farms.com/wp-content/uploads/2021/09/Jowar-Millet-Rice.jpg",
-      "title": "Jowar",
-      "description": "A gluten-free grain used as a staple food in many parts of India."
+      "title": {
+        "en": "Jowar",
+        "hi": "ज्वार",
+        "mr": "ज्वारी"
+      },
+      "description": {
+        "en": "A gluten-free grain used as a staple food in many parts of India.",
+        "hi": "एक ग्लूटेन-मुक्त अनाज जो भारत के कई हिस्सों में मुख्य आहार के रूप में उपयोग होता है।",
+        "mr": "एक ग्लूटेन-मुक्त धान्य जे भारतातील अनेक भागांमध्ये मुख्य अन्न म्हणून वापरले जाते."
+      }
     },
     {
       "imageUrl": "https://i.ebayimg.com/images/g/dHAAAOSwaOhiPvXC/s-l1200.webp",
-      "title": "Chana",
-      "description": "Also known as chickpea, used in various dishes and as a snack."
+      "title": {
+        "en": "Chana",
+        "hi": "चना",
+        "mr": "हरभरा"
+      },
+      "description": {
+        "en": "Also known as chickpea, used in various dishes and as a snack.",
+        "hi": "जिसे छोला भी कहा जाता है, विभिन्न व्यंजनों और स्नैक्स में उपयोग होता है।",
+        "mr": "ज्याला हरभरा म्हणतात, विविध पदार्थ आणि स्नॅक्समध्ये वापरले जाते."
+      }
     }
   ],
   "fruits": [
     {
       "imageUrl": "https://4.imimg.com/data4/AT/RM/MY-29356566/indian-mangoes.jpg",
-      "title": "Mango",
-      "description": "A tropical fruit known for its sweet and tangy flavor."
+      "title": {
+        "en": "Mango",
+        "hi": "आम",
+        "mr": "आंबा"
+      },
+      "description": {
+        "en": "A tropical fruit known for its sweet and tangy flavor.",
+        "hi": "एक उष्णकटिबंधीय फल जो अपनी मीठी और खट्टी स्वाद के लिए जाना जाता है।",
+        "mr": "एक उष्णकटिबंधीय फळ जे आपल्या गोड आणि आंबट चवीसाठी ओळखले जाते."
+      }
     },
     {
       "imageUrl": "https://english.cdn.zeenews.com/sites/default/files/2015/01/04/309673-chikoo.jpg",
-      "title": "Chikoo (Sapota)",
-      "description": "A sweet and grainy-textured fruit popular in tropical regions."
+      "title": {
+        "en": "Chikoo (Sapota)",
+        "hi": "चीकू",
+        "mr": "चीकू"
+      },
+      "description": {
+        "en": "A sweet and grainy-textured fruit popular in tropical regions.",
+        "hi": "एक मीठा और दानेदार बनावट वाला फल जो उष्णकटिबंधीय क्षेत्रों में लोकप्रिय है।",
+        "mr": "एक गोड आणि दाणेदार बनावट असलेले फळ जे उष्णकटिबंधीय प्रदेशात लोकप्रिय आहे."
+      }
     },
     {
       "imageUrl": "https://www.edobo.in/s/60a39f1801d30d79c4caa94b/6554f377d4196b29eecbae6b/custard-apple.jpg",
-      "title": "Custard Apple",
-      "description": "A creamy and delicious fruit with a unique flavor."
+      "title": {
+        "en": "Custard Apple",
+        "hi": "सीताफल",
+        "mr": "सीताफळ"
+      },
+      "description": {
+        "en": "A creamy and delicious fruit with a unique flavor.",
+        "hi": "एक क्रीमी और स्वादिष्ट फल जिसका अनोखा स्वाद होता है।",
+        "mr": "एक क्रीमी आणि स्वादिष्ट फळ ज्याची अनोखी चव असते."
+      }
     },
     {
       "imageUrl": "https://cdn.britannica.com/59/139059-050-30794D53/Guava-fruit.jpg",
-      "title": "Guava",
-      "description": "A tropical fruit rich in vitamin C and antioxidants."
+      "title": {
+        "en": "Guava",
+        "hi": "अमरूद",
+        "mr": "पेरू"
+      },
+      "description": {
+        "en": "A tropical fruit rich in vitamin C and antioxidants.",
+        "hi": "एक उष्णकटिबंधीय फल जो विटामिन सी और एंटीऑक्सीडेंट्स से भरपूर होता है।",
+        "mr": "एक उष्णकटिबंधीय फळ जे व्हिटॅमिन सी आणि अँटिऑक्सिडंट्सनी भरलेले असते."
+      }
     },
     {
       "imageUrl": "https://c.ndtvimg.com/2023-11/65ue33s8_lemon_625x300_08_November_23.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-      "title": "Lemon",
-      "description": "A citrus fruit used for its juice and zest in cooking."
+      "title": {
+        "en": "Lemon",
+        "hi": "नींबू",
+        "mr": "लिंबू"
+      },
+      "description": {
+        "en": "A citrus fruit used for its juice and zest in cooking.",
+        "hi": "एक खट्टा फल जो अपने रस और जेस्ट के लिए खाना पकाने में उपयोग होता है।",
+        "mr": "एक आंबट फळ जे त्याच्या रस आणि जेस्टसाठी स्वयंपाकात वापरले जाते."
+      }
     },
     {
       "imageUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2017/06/oranges-85fb2b6.jpg?quality=90&resize=556,505",
-      "title": "Orange",
-      "description": "Another citrus fruit known for its vitamin C content and refreshing taste."
+      "title": {
+        "en": "Orange",
+        "hi": "संतरा",
+        "mr": "संत्रा"
+      },
+      "description": {
+        "en": "Another citrus fruit known for its vitamin C content and refreshing taste.",
+        "hi": "एक और खट्टा फल जो अपनी विटामिन सी सामग्री और ताजगी भरे स्वाद के लिए जाना जाता है।",
+        "mr": "आणखी एक आंबट फळ जे आपल्या व्हिटॅमिन सी सामग्री आणि ताजेतवाने चवीसाठी ओळखले जाते."
+      }
     }
   ]
 }

@@ -6,6 +6,7 @@ import Crops from '../components/Crops';
 import Services from '../components/Services';
 import Activities from '../components/Activities';
 import Events from '../components/Events';
+import LanguageSwitcher from '../components/LanguageSwitcher';
 
 
 let slides = [
@@ -23,11 +24,13 @@ let slides = [
 const Homepage = () => {
     return (
         <div>
+            <LanguageSwitcher/>
             <div className="w-[100%] z-0">
                 <Carousel slides={slides} />
-            </div>
+            </div>  
             <Services />
             <Crops />
+            
             {/* <Activities /> */}
             <Events />
         </div>

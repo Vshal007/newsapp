@@ -2,45 +2,87 @@
   "services": [
     {
       "imageSrc": "https://awsmfarming.co.uk/wp-content/uploads/2022/11/blog-1.webp",
-      "title": "Technical Guidance",
-      "details": "Receive expert technical guidance to increase the yield of various crops including Cotton, Soybean, and Chana. Our advice extends to vegetables such as Tomato, Brinjal, Red-Green Chillies, Spinach, Curry Leaves, Onion, and Coriander. We also provide guidance for fruit cultivation, including Mango, Watermelon, Muskmelon, Orange, Citrus, Chikoo, and Custard Apple. Improve your farming techniques to maximize your harvests and achieve better results.",
+      "title": {
+        "en": "Technical Guidance",
+        "hi": "तकनीकी मार्गदर्शन",
+        "mr": "तांत्रिक मार्गदर्शन"
+      },
+      "details": {
+        "en": "Receive expert technical guidance to increase the yield of various crops including Cotton, Soybean, and Chana. Our advice extends to vegetables such as Tomato, Brinjal, Red-Green Chillies, Spinach, Curry Leaves, Onion, and Coriander. We also provide guidance for fruit cultivation, including Mango, Watermelon, Muskmelon, Orange, Citrus, Chikoo, and Custard Apple. Improve your farming techniques to maximize your harvests and achieve better results.",
+        "hi": "कपास, सोयाबीन और चना सहित विभिन्न फसलों की उपज बढ़ाने के लिए विशेषज्ञ तकनीकी मार्गदर्शन प्राप्त करें। हमारा मार्गदर्शन टमाटर, बैंगन, लाल-हरी मिर्च, पालक, करी पत्ते, प्याज और धनिया जैसी सब्जियों तक भी विस्तारित है। हम आम, तरबूज, खरबूज, संतरा, नींबू, चीकू और सीताफल जैसी फलों की खेती के लिए भी मार्गदर्शन प्रदान करते हैं। अपनी खेती की तकनीकों को सुधारें और बेहतर परिणाम प्राप्त करें।",
+        "mr": "कापूस, सोयाबीन आणि चणासह विविध पिकांची उत्पादन वाढवण्यासाठी तज्ञ तांत्रिक मार्गदर्शन मिळवा. आमचे सल्ले टोमॅटो, वांगी, लाल-हिरव्या मिरच्या, पालक, कढीपत्ता, कांदा आणि धणे यांसारख्या भाज्यांनाही दिले जातात. आम्ही आंबा, कलिंगड, खरबूज, संत्रा, लिंबू, चिकू आणि सिताफळ यांसारख्या फळांच्या लागवडीसाठी देखील मार्गदर्शन देतो. आपल्या शेतीच्या तंत्रांचा सुधार करा आणि चांगले परिणाम मिळवा."
+      },
       "link": "https://example.com/services/increasing_yield"
-
     },
     {
       "imageSrc": "https://awsmfarming.co.uk/wp-content/uploads/2022/11/blog-12.webp",
-      "title": "Krishi Seva Kendra",
-      "details": "Our Krishi Seva Kendra, located at Taluka Umri in the Nanded district of Maharashtra, provides essential agricultural inputs. We supply high-quality fertilizers, seeds, insecticides, micronutrients, and farm equipment to support local farmers in enhancing their productivity and crop health.",
+      "title": {
+        "en": "Krishi Seva Kendra",
+        "hi": "कृषि सेवा केंद्र",
+        "mr": "कृषी सेवा केंद्र"
+      },
+      "details": {
+        "en": "Our Krishi Seva Kendra, located at Taluka Umri in the Nanded district of Maharashtra, provides essential agricultural inputs. We supply high-quality fertilizers, seeds, insecticides, micronutrients, and farm equipment to support local farmers in enhancing their productivity and crop health.",
+        "hi": "महाराष्ट्र के नांदेड़ जिले के उमरी तालुका में स्थित हमारा कृषि सेवा केंद्र आवश्यक कृषि इनपुट प्रदान करता है। हम स्थानीय किसानों को उनकी उत्पादकता और फसल के स्वास्थ्य को बढ़ाने में सहायता करने के लिए उच्च गुणवत्ता वाले उर्वरक, बीज, कीटनाशक, सूक्ष्म पोषक तत्व और कृषि उपकरण प्रदान करते हैं।",
+        "mr": "महाराष्ट्रातील नांदेड जिल्ह्यातील उमरी तालुक्यात स्थित आमचे कृषी सेवा केंद्र आवश्यक कृषी इनपुट प्रदान करते. आम्ही स्थानिक शेतकऱ्यांना त्यांची उत्पादकता आणि पिकांच्या आरोग्याचे वाढवण्यासाठी उच्च-गुणवत्तेची खते, बियाणे, कीटकनाशके, सूक्ष्म पोषकद्रव्ये आणि शेतसाहित्य पुरवतो."
+      },
       "link": "https://example.com/services/increasing_yield"
-
     },
     {
       "imageSrc": "https://awsmfarming.co.uk/wp-content/uploads/2022/11/blog-10.webp",
-      "title": "Government Procurement Center",
-      "details": "We operate a Government Procurement Center in Taluka Umri, Nanded district, Maharashtra, under the guidance of NAFED. This center facilitates Minimum Support Price (MSP) procurement by the central government, ensuring that farmers receive fair prices for their produce.",
+      "title": {
+        "en": "Government Procurement Center",
+        "hi": "सरकारी खरीद केंद्र",
+        "mr": "सरकारी खरेदी केंद्र"
+      },
+      "details": {
+        "en": "We operate a Government Procurement Center in Taluka Umri, Nanded district, Maharashtra, under the guidance of NAFED. This center facilitates Minimum Support Price (MSP) procurement by the central government, ensuring that farmers receive fair prices for their produce.",
+        "hi": "हम नाफेड के मार्गदर्शन में महाराष्ट्र के नांदेड़ जिले के उमरी तालुका में एक सरकारी खरीद केंद्र का संचालन करते हैं। यह केंद्र केंद्रीय सरकार द्वारा न्यूनतम समर्थन मूल्य (एमएसपी) की खरीद को सुविधाजनक बनाता है, जिससे किसानों को उनके उत्पादन के लिए उचित मूल्य मिल सके।",
+        "mr": "आम्ही नाफेडच्या मार्गदर्शनाखाली महाराष्ट्रातील नांदेड जिल्ह्यातील उमरी तालुक्यात सरकारी खरेदी केंद्र चालवतो. हे केंद्र केंद्रीय सरकारद्वारे किमान आधारभूत किंमत (एमएसपी) खरेदीचे सुलभतेने सुनिश्चित करते, ज्यामुळे शेतकऱ्यांना त्यांच्या उत्पादनासाठी योग्य किंमत मिळू शकते."
+      },
       "link": "https://example.com/services/increasing_yield"
-
     },
     {
       "imageSrc": "https://awsmfarming.co.uk/wp-content/uploads/2022/11/blog-13.webp",
-      "title": "On Field Assistance",
-      "details": "Our team of technical agriculturists provides on-field assistance to farmers, addressing their problems with effective solutions. We offer expert advice and practical support to help farmers overcome challenges and improve their agricultural practices.",
+      "title": {
+        "en": "On Field Assistance",
+        "hi": "मैदान पर सहायता",
+        "mr": "मैदानी सहाय्य"
+      },
+      "details": {
+        "en": "Our team of technical agriculturists provides on-field assistance to farmers, addressing their problems with effective solutions. We offer expert advice and practical support to help farmers overcome challenges and improve their agricultural practices.",
+        "hi": "हमारी तकनीकी कृषिविदों की टीम किसानों को मैदान पर सहायता प्रदान करती है, उनकी समस्याओं को प्रभावी समाधानों के साथ हल करती है। हम विशेषज्ञ सलाह और व्यावहारिक समर्थन प्रदान करते हैं ताकि किसानों को चुनौतियों को पार करने और अपनी कृषि प्रथाओं में सुधार करने में सहायता मिल सके।",
+        "mr": "आमच्या तांत्रिक कृषिशास्त्रज्ञांची टीम शेतकऱ्यांना मैदानी सहाय्य प्रदान करते, त्यांच्या समस्या प्रभावी उपायांसह सोडवते. आम्ही तज्ज्ञ सल्ला आणि व्यावहारिक सहाय्य प्रदान करतो जेणेकरून शेतकऱ्यांना आव्हानांचा सामना करण्यास आणि त्यांच्या कृषी पद्धतींमध्ये सुधारणा करण्यास मदत होईल."
+      },
       "link": "https://example.com/services/increasing_yield"
-
     },
     {
       "imageSrc": "https://awsmfarming.co.uk/wp-content/uploads/2022/11/blog-3.webp",
-      "title": "Private Procurement",
-      "details": "We engage in the private procurement of various grains and other agricultural produce at our center in Umri. This initiative helps farmers to find reliable buyers and get fair prices for their harvests, contributing to their financial stability and growth.",
+      "title": {
+        "en": "Private Procurement",
+        "hi": "निजी खरीद",
+        "mr": "खाजगी खरेदी"
+      },
+      "details": {
+        "en": "We engage in the private procurement of various grains and other agricultural produce at our center in Umri. This initiative helps farmers to find reliable buyers and get fair prices for their harvests, contributing to their financial stability and growth.",
+        "hi": "हम उमरी में हमारे केंद्र पर विभिन्न अनाज और अन्य कृषि उत्पादों की निजी खरीद में शामिल हैं। यह पहल किसानों को विश्वसनीय खरीदार खोजने और उनके फसलों के लिए उचित मूल्य प्राप्त करने में मदद करती है, जिससे उनकी वित्तीय स्थिरता और विकास में योगदान मिलता है।",
+        "mr": "आम्ही उमरीतील आमच्या केंद्रात विविध धान्य आणि इतर कृषी उत्पादनांच्या खाजगी खरेदीमध्ये सहभागी आहोत. ही योजना शेतकऱ्यांना विश्वासार्ह खरेदीदार शोधण्यात आणि त्यांच्या पिकांसाठी योग्य किंमत मिळविण्यात मदत करते, ज्यामुळे त्यांच्या आर्थिक स्थैर्य आणि वाढीस हातभार लागतो."
+      },
       "link": "https://example.com/services/increasing_yield"
-
     },
     {
       "imageSrc": "https://awsmfarming.co.uk/wp-content/uploads/2022/11/blog-5.webp",
-      "title": "Market Linkages",
-      "details": "Our market linkage services identify markets for the produce grown by our member farmers. We find reliable customers who purchase the farmers' produce at competitive prices, ensuring direct benefits for the farmers. We also manage transportation, pricing, and market locations for various products including cotton, soybean, fruits like mango and chikoo, and vegetables such as tomato, onion, capsicum, and green-red chillies.",
+      "title": {
+        "en": "Market Linkages",
+        "hi": "बाजार संबंध",
+        "mr": "बाजार संबंध"
+      },
+      "details": {
+        "en": "Our market linkage services identify markets for the produce grown by our member farmers. We find reliable customers who purchase the farmers' produce at competitive prices, ensuring direct benefits for the farmers. We also manage transportation, pricing, and market locations for various products including cotton, soybean, fruits like mango and chikoo, and vegetables such as tomato, onion, capsicum, and green-red chillies.",
+        "hi": "हमारी बाजार संपर्क सेवाएं हमारे सदस्य किसानों द्वारा उगाए गए उत्पादन के लिए बाजारों की पहचान करती हैं। हम विश्वसनीय ग्राहकों को ढूंढते हैं जो किसानों के उत्पादों को प्रतिस्पर्धी कीमतों पर खरीदते हैं, जिससे किसानों को प्रत्यक्ष लाभ सुनिश्चित होता है। हम विभिन्न उत्पादों के लिए परिवहन, मूल्य निर्धारण और बाजार स्थानों का प्रबंधन भी करते हैं, जिनमें कपास, सोयाबीन, आम और चीकू जैसे फल, और टमाटर, प्याज, शिमला मिर्च और हरी-लाल मिर्च जैसी सब्जियां शामिल हैं।",
+        "mr": "आमच्या बाजार लिंक सेवांद्वारे आम्ही आमच्या सदस्य शेतकऱ्यांनी उत्पादित केलेल्या मालासाठी बाजार शोधतो. आम्ही विश्वासार्ह ग्राहक शोधतो जे शेतकऱ्यांच्या उत्पादनांना स्पर्धात्मक किंमतींवर खरेदी करतात, ज्यामुळे शेतकऱ्यांना थेट फायदे मिळू शकतात. आम्ही विविध उत्पादनांसाठी वाहतूक, किंमत निर्धारण आणि बाजारपेठांचे स्थान व्यवस्थापित करतो ज्यात कापूस, सोयाबीन, फळे जसे की आंबा आणि चिकू आणि भाज्या जसे की टोमॅटो, कांदा, शिमला मिर्च आणि हिरव्या-लाल मिरच्या यांचा समावेश आहे."
+      },
       "link": "https://example.com/services/increasing_yield"
-
     }
   ]
 }

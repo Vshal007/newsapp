@@ -1,6 +1,8 @@
 import React from 'react';
+import { useTranslation } from '../utils/getTranslation';
 
 const EventList = ({ events, onSelect }) => {
+    const { t, language } = useTranslation();
     return (
 
         <div className="md:w-[40%] bg-green-900 text-white p-4 md:rounded-r-lg rounded-b-lg md:rounded-bl-none">
@@ -12,7 +14,7 @@ const EventList = ({ events, onSelect }) => {
                 >
                     <img src={event.image} alt={event.title} className="w-16 h-16 mr-4 object-cover rounded" />
                     <div>
-                        <h3 className="text-lg font-semibold">{event.title}</h3>
+                        <h3 className="text-lg font-semibold">{event.title[language]}</h3>
                         <p className="text-sm">{event.date}</p>
                     </div>
                 </div>

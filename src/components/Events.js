@@ -3,7 +3,9 @@ import EventList from './EventList';
 import EventDetail from './EventDetail';
 import eventsData from './events.json';
 import event1 from '../images/events/event1.jpeg'
+
 const Events = () => {
+    
     const [selectedEvent, setSelectedEvent] = useState(null);
     const [events, setEvents] = useState([]);
 

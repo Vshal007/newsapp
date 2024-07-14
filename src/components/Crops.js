@@ -4,8 +4,10 @@ import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import CropCard from './CropCard';
 import cropData from './cropData.json';
+import { useTranslation } from '../utils/getTranslation';
 
 const Crops = () => {
+  const { t, language } = useTranslation();
   const [sliderSettings, setSliderSettings] = useState({
     dots: true,
     infinite: true,
@@ -47,8 +49,8 @@ const Crops = () => {
             <div key={index}>
               <CropCard
                 imageUrl={crop.imageUrl}
-                title={crop.title}
-                description={crop.description}
+                title={crop.title[language]}
+                description={crop.description[language]}
               />
             </div>
           ))}
@@ -62,8 +64,8 @@ const Crops = () => {
             <div key={index}>
               <CropCard
                 imageUrl={crop.imageUrl}
-                title={crop.title}
-                description={crop.description}
+                title={crop.title[language]}
+                description={crop.description[language]}
               />
             </div>
           ))}
@@ -77,8 +79,8 @@ const Crops = () => {
             <div key={index}>
               <CropCard
                 imageUrl={crop.imageUrl}
-                title={crop.title}
-                description={crop.description}
+                title={crop.title[language]}
+                description={crop.description[language]}
               />
             </div>
           ))}
