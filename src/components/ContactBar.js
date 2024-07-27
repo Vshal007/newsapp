@@ -17,7 +17,7 @@ const ContactBar = () => {
             </div>
             <div className='md:px-20'>
                 <FontAwesomeIcon icon={faLocationDot} className="mr-2" />
-                Umri District Nanded, Maharashtra - 431801
+                Umri District Nanded, Maharashtra - 431807
             </div>
         </div>
     );

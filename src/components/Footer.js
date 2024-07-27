@@ -35,7 +35,7 @@ const Footer = () => {
                                 <h2 className="mb-3 text-sm font-semibold text-gray-900 uppercase dark:text-white">Address</h2>
                                 <ul className="text-gray-500 dark:text-gray-200 font-medium">
                                     <li className="mb-4">
-                                        Malmatta no 122, P-64, Ward no. 15, Behind Bus stand Taluka Umri District Nanded, Maharashtra - 431801
+                                        Malmatta no 122, P-64, Ward no. 15, Behind Bus stand Taluka Umri District Nanded, Maharashtra - 431807
                                     </li>
                                 </ul>
                             </div>
