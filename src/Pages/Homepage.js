@@ -24,7 +24,7 @@ let slides = [
 const Homepage = () => {
     return (
         <div>
-            <LanguageSwitcher/>
+           
             <div className="w-[100%] z-0">
                 <Carousel slides={slides} />
             </div>  
