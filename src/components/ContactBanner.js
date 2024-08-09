@@ -6,8 +6,9 @@ const Banner = () => {
             <h1 className="text-white text-2xl flex items-center justify-center">
                 <div>🎉🎉</div>
                 <div className="text-4xl font-bold animate-pulse mx-2">
-                    Welcome to BOTHI AGRO's Contact Page 🌾🚜
+                    Welcome to BOTHI AGRO's official website🌾🚜
                 </div>
+
                 <div>🎉🎉</div>
             </h1>
             <p className="text-white text-2xl mt-2 font-bold">
