@@ -5,6 +5,7 @@ import 'slick-carousel/slick/slick-theme.css';
 import CropCard from './CropCard';
 import cropData from './cropData.json';
 import { useTranslation } from '../utils/getTranslation';
+import tomato from "../images/events/tomatoes.jpg"
 
 const Crops = () => {
   const { t, language } = useTranslation();

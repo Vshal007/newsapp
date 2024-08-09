@@ -7,6 +7,7 @@ import Services from '../components/Services';
 import Activities from '../components/Activities';
 import Events from '../components/Events';
 import LanguageSwitcher from '../components/LanguageSwitcher';
+import Banner from '../components/Banner';
 
 
 let slides = [
@@ -24,7 +25,7 @@ let slides = [
 const Homepage = () => {
     return (
         <div>
-           
+           <Banner/>
             <div className="w-[100%] z-0">
                 <Carousel slides={slides} />
             </div>  

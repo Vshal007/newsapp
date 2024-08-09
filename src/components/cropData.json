@@ -1,7 +1,7 @@
 {
   "vegetables": [
     {
-      "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2020/09/AN313-Tomatoes-732x549-Thumb-732x549.jpg",
+      "imageUrl": "/images/crops/tomatoes.jpg",
       "title": {
         "en": "Tomato",
         "hi": "टमाटर",
@@ -14,7 +14,7 @@
       }
     },
     {
-      "imageUrl": "https://staticg.sportskeeda.com/editor/2023/03/3e8c9-16783898800668-1920.jpg?w=640",
+      "imageUrl": "/images/crops/onions.jpg",
       "title": {
         "en": "Onion",
         "hi": "प्याज",
@@ -27,7 +27,7 @@
       }
     },
     {
-      "imageUrl": "https://www.netafimindia.com/contentassets/98512e81691249368e1ca89dcaa7abcd/potatoes_challenge-1-1.png?height=0&width=750&mode=crop&quality=100",
+      "imageUrl": "/images/crops/potatoes.png",
       "title": {
         "en": "Potato",
         "hi": "आलू",
@@ -40,7 +40,7 @@
       }
     },
     {
-      "imageUrl": "https://doorkisan.com/wp-content/uploads/2016/05/green-chilli_759.jpg",
+      "imageUrl": "/images/crops/greenChilli.jpg",
       "title": {
         "en": "Green Chilli",
         "hi": "हरी मिर्च",
@@ -53,7 +53,7 @@
       }
     },
     {
-      "imageUrl": "https://www.greendna.in/cdn/shop/products/chili-499063_960_720_1200x1200.jpg",
+      "imageUrl": "/images/crops/redChilli.jpg",
       "title": {
         "en": "Red Chilli",
         "hi": "लाल मिर्च",
@@ -66,7 +66,7 @@
       }
     },
     {
-      "imageUrl": "https://images.news18.com/webstories/2023/09/Curry-leaves-plant.jpeg",
+      "imageUrl": "/images/crops/curry.jpeg",
       "title": {
         "en": "Curry Leaves",
         "hi": "करी पत्ते",
@@ -79,7 +79,7 @@
       }
     },
     {
-      "imageUrl": "https://freshji.in/wp-content/uploads/2020/09/Capsicum-1-600x600.jpg",
+      "imageUrl": "/images/crops/capsicum.jpg",
       "title": {
         "en": "Capsicum",
         "hi": "शिमला मिर्च",
@@ -94,7 +94,7 @@
   ],
   "cashCrops": [
     {
-      "imageUrl": "https://www.contrado.co.uk/blog/wp-content/uploads/2020/07/1-1.jpg",
+      "imageUrl": "/images/crops/cotton.jpg",
       "title": {
         "en": "Cotton",
         "hi": "कपास",
@@ -107,7 +107,7 @@
       }
     },
     {
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/10000487-5_2-bb-royal-soya-bean.jpg",
+      "imageUrl": "/images/crops/soyabean.jpg",
       "title": {
         "en": "Soyabean",
         "hi": "सोयाबीन",
@@ -120,7 +120,7 @@
       }
     },
     {
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-03/31/full/1680266101-7124.jpg",
+      "imageUrl": "/images/crops/dal.jpg",
       "title": {
         "en": "Tur",
         "hi": "अरहर",
@@ -133,7 +133,7 @@
       }
     },
     {
-      "imageUrl": "https://24farms.com/wp-content/uploads/2021/09/Jowar-Millet-Rice.jpg",
+      "imageUrl": "/images/crops/jowar.jpg",
       "title": {
         "en": "Jowar",
         "hi": "ज्वार",
@@ -146,7 +146,7 @@
       }
     },
     {
-      "imageUrl": "https://i.ebayimg.com/images/g/dHAAAOSwaOhiPvXC/s-l1200.webp",
+      "imageUrl": "/images/crops/chana.webp",
       "title": {
         "en": "Chana",
         "hi": "चना",
@@ -161,7 +161,7 @@
   ],
   "fruits": [
     {
-      "imageUrl": "https://4.imimg.com/data4/AT/RM/MY-29356566/indian-mangoes.jpg",
+      "imageUrl": "/images/crops/mangoes.jpg",
       "title": {
         "en": "Mango",
         "hi": "आम",
@@ -174,7 +174,7 @@
       }
     },
     {
-      "imageUrl": "https://english.cdn.zeenews.com/sites/default/files/2015/01/04/309673-chikoo.jpg",
+      "imageUrl": "/images/crops/chikoo.jpg",
       "title": {
         "en": "Chikoo (Sapota)",
         "hi": "चीकू",
@@ -187,7 +187,7 @@
       }
     },
     {
-      "imageUrl": "https://www.edobo.in/s/60a39f1801d30d79c4caa94b/6554f377d4196b29eecbae6b/custard-apple.jpg",
+      "imageUrl": "/images/crops/custard.jpg",
       "title": {
         "en": "Custard Apple",
         "hi": "सीताफल",
@@ -200,7 +200,7 @@
       }
     },
     {
-      "imageUrl": "https://cdn.britannica.com/59/139059-050-30794D53/Guava-fruit.jpg",
+      "imageUrl": "/images/crops/guava.jpg",
       "title": {
         "en": "Guava",
         "hi": "अमरूद",
@@ -213,7 +213,7 @@
       }
     },
     {
-      "imageUrl": "https://c.ndtvimg.com/2023-11/65ue33s8_lemon_625x300_08_November_23.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+      "imageUrl": "/images/crops/lemons.jpg",
       "title": {
         "en": "Lemon",
         "hi": "नींबू",
@@ -226,7 +226,7 @@
       }
     },
     {
-      "imageUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2017/06/oranges-85fb2b6.jpg?quality=90&resize=556,505",
+      "imageUrl": "/images/crops/oranges.jpg",
       "title": {
         "en": "Orange",
         "hi": "संतरा",
